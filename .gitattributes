@@ -1,0 +1,10 @@
+t5-finetuned-es-en-run1/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+Track filter=lfs diff=lfs merge=lfs -text
+all filter=lfs diff=lfs merge=lfs -text
+files filter=lfs diff=lfs merge=lfs -text
+in filter=lfs diff=lfs merge=lfs -text
+the filter=lfs diff=lfs merge=lfs -text
+directory filter=lfs diff=lfs merge=lfs -text
+t5-finetuned-es-en-run1/* filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+t5-finetuned-es-en/** filter=lfs diff=lfs merge=lfs -text
